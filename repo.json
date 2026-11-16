@@ -3,8 +3,8 @@
         "Author": "Crimson",
         "Name": "NIRÆ Motion",
         "InternalName": "NiraeMotion",
-        "AssemblyVersion": "0.3.20.0",
-        "TestingAssemblyVersion": "0.3.20.0",
+        "AssemblyVersion": "0.3.21.0",
+        "TestingAssemblyVersion": "0.3.21.0",
         "Description": "Its own flesh physics for the NIRÆ body: bounce with weight and follow-through, hang with gravity, and skin that dents under hands and forearms (the dents need the NIRÆ shader test mod). Prototype: only on your screen. /nmotion",
         "Punchline": "Its own flesh physics for the NIRÆ body.",
         "ApplicableVersion": "any",
@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/urimusha/nirae-motion/main/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": 1794812796,
+        "LastUpdate": 1794813627,
         "DownloadCount": 0
     }
 ]
