@@ -3,9 +3,9 @@
         "Author": "Crimson",
         "Name": "NIRÆ Motion",
         "InternalName": "NiraeMotion",
-        "AssemblyVersion": "0.3.37.0",
-        "TestingAssemblyVersion": "0.3.37.0",
-        "Description": "Its own flesh physics for the NIRÆ body: bounce with weight and follow-through, hang with gravity, and skin that dents under hands and forearms (the dents need the NIRÆ shader test mod). Reads other players' NIRÆ build, hips, chest and Squish so each body moves as its own. Prototype. /nmotion",
+        "AssemblyVersion": "0.3.38.0",
+        "TestingAssemblyVersion": "0.3.38.0",
+        "Description": "Its own flesh physics for the NIRÆ body: bounce with weight and follow-through, hang with gravity, and skin that dents under hands and forearms (the dents need the NIRÆ shader test mod). Reads other players' NIRÆ build, hips, chest, belly and Squish so each body moves as its own. Prototype. /nmotion",
         "Punchline": "Its own flesh physics for the NIRÆ body.",
         "ApplicableVersion": "any",
         "Tags": [
@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/urimusha/nirae-motion/main/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": 1795167123,
+        "LastUpdate": 1795167349,
         "DownloadCount": 0
     }
 ]
